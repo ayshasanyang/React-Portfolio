@@ -1,6 +1,6 @@
 /* NEW GALLERY */
 .navbar-inverse {
-    background-color: #008b8b;
+    background-color: #194B4F;
 }
 
 hr.home {
@@ -20,7 +20,7 @@ p.solid{
 }
 
 .bg_image{
-    background-image: url('../../background-img.jpg');
+    background-image: url('../../background-image.jpg');
     background-size: cover;
     background-position:center;
     height: 100vh;

@@ -66,17 +66,17 @@ class Portfolio extends Component {
                                 </div>
                             </div>
                         </a>
-                        <a href="https://github.com/ayshasanyang/Burger" target="_blank" rel="noopener noreferrer" ><p className="solid">GitHub Repository</p></a>
+                        <a href="https://github.com/ayshasanyang/Employee-Directory" target="_blank" rel="noopener noreferrer" ><p className="solid">GitHub Repository</p></a>
                     </div>
                     <div className="col-md-4 col-sm-12 mb-2r mb-4">
-                        <a href="https://secret-meadow-33926.herokuapp.com/" target="_blank" rel="noopener noreferrer" >
+                        <a href="https://damp-brook-92235.herokuapp.com//" target="_blank" rel="noopener noreferrer" >
                             <div className="position-relative project">
                                 <div className="image position-relative ">
-                                    <img src={process.env.PUBLIC_URL +"/img/note-taker.PNG"} className="img-fluid w-100 d-block" alt="notetaker_img"/>
+                                    <img src={process.env.PUBLIC_URL +"/img/employee-directory.PNG"} className="img-fluid w-100 d-block" alt="notetaker_img"/>
                                     <div className="overlay-box">
                                         <div className="overlay-inner overlay-content">
-                                            <h5 className="mb-0">Note Taker Live Site</h5>
-                                            <p className="p-note">This is a note-taking application that helps users to keep track of their activity. The app can add, delete, and save notes.<br/>
+                                            <h5 className="mb-0">Employee Directory Live Site</h5>
+                                            <p className="p-note">Thi's a React app that utilizes API to populate random users. It allows you to search for an employee by entering their names in a search box, which will dynamically search the field and filter the names that match the search.<br/>
                                             </p>
                                         </div>
                                     </div>
