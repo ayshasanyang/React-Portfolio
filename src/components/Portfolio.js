@@ -28,7 +28,7 @@ class Portfolio extends Component {
                                     <div className="overlay-box">
                                         <div className="overlay-inner overlay-content">
                                             <h5 className="mb-0">Park Finder Live Site</h5>
-                                            <p className="p-finder"></p>
+                                            <p className="p-finder">Weather or Not was created to provide users with an easy tool to discover and locate local state parks, and plan the perfect time to go with weather forecast</p>
                                         </div>
                                     </div>
                                 </div>
@@ -44,7 +44,7 @@ class Portfolio extends Component {
                                     <div className="overlay-box">
                                         <div className="overlay-inner overlay-content">
                                             <h5 className="mb-0">Shopping App Live Site</h5>
-                                            <p className="p-shopping"></p>
+                                            <p className="p-shopping">This project creates an application for online vendors to post their products to an Online Shopping Store. The vendors are able to create, update, edit and delete products from our vendor application storing product information in our Database.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -60,7 +60,7 @@ class Portfolio extends Component {
                                     <div className="overlay-box">
                                         <div className="overlay-inner overlay-content">
                                             <h5 className="mb-0">Burger Live Site</h5>
-                                            <p className="p-burger"></p>
+                                            <p className="p-burger">This is a restaurant app that lets users input the names of burgers they'd like to eat, then the burger will be displayed in the menu list on the left side of the page, waiting to be devoured. The app was created with MySQL, node.js, and handlebars. The application follows the MVC design pattern.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -76,7 +76,7 @@ class Portfolio extends Component {
                                     <div className="overlay-box">
                                         <div className="overlay-inner overlay-content">
                                             <h5 className="mb-0">Note Taker Live Site</h5>
-                                            <p className="p-note"><br/>
+                                            <p className="p-note">This is a note-taking application that helps users to keep track of their activity. The app can add, delete, and save notes.<br/>
                                             </p>
                                         </div>
                                     </div>
@@ -93,7 +93,7 @@ class Portfolio extends Component {
                                     <div className="overlay-box">
                                         <div className="overlay-inner overlay-content">
                                             <h5 className="mb-0">Employee Management System</h5>
-                                            <p className="p-employee"></p>
+                                            <p className="p-employee">Employee Tracker is a node.js application that uses MySQL Workbench. This application manages all employees working in a company with different departments and roles. This app can add, view, and update information. This app was developed using Node, Inquirer prompts, and MySQL.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -109,7 +109,7 @@ class Portfolio extends Component {
                                     <div className="overlay-box">
                                         <div className="overlay-inner overlay-content">
                                             <h5 className="mb-0">Profile Generator</h5>
-                                            <p className="p-generator"></p>
+                                            <p className="p-generator">This is a Node CLI that takes employees information and generates a HTML file.</p>
                                         </div>
                                     </div>
                                 </div>
