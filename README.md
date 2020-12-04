@@ -14,5 +14,12 @@ This project was bootstrapped with [Create react app](https://github.com/faceboo
 
 ![Updated Portfolio](./public/img/react-portfolio.gif )
 
+## Built With:
+- JavaScript (React)
+- React Router
+- CSS
+- HTML
+- Bootstrap
+
 
 
